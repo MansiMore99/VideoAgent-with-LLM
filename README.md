@@ -6,13 +6,13 @@ I implemented an agent for videos using different platforms and tools like Curso
 👩‍💻 Let's Hack -
 
 * ​Create a new project with Cursor, Replit or your favorite tool
-
-​* Design a character with FLUX or your favorite image model
-
+  
+* Design a character with FLUX or your favorite image model
+  
 * ​Add a personality with the world's fastest LLMs
-
+  
 * ​Connect a custom voice with Cartesia's 95ms Sonic TTS API
-
+  
 * ​Bring your avatar to life with Simli's 300ms Avatar API
 
 
