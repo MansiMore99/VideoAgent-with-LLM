@@ -1,4 +1,4 @@
-## ​Create a magic mirror with video agents.
+## ​Create a magic mirror with video agents 🎬🧠
 
 
 I implemented an agent for videos using different platforms and tools like Cursor, Flux, cartesia, and simli. It is a digital character that interacts with users in real-time video to answer questions and perform tasks.
